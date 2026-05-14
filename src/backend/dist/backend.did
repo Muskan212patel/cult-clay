@@ -1,0 +1,16 @@
+type EmailSignup = 
+ record {
+   email: text;
+   source: text;
+   timestamp: int;
+ };
+type AddEmailResult = 
+ record {
+   message: text;
+   ok: bool;
+ };
+service : {
+  addEmail: (email: text, source: text) -> (AddEmailResult);
+  getEmailCount: () -> (nat) query;
+  getEmails: () -> (vec EmailSignup);
+}

@@ -1,0 +1,25 @@
+{
+  "overview": "A minimalist, high-conversion single-page landing site for Cult & Clay — a philosophically deep Indian slow-fashion brand. Quiet luxury storytelling, Khadi cotton and natural ittars, contemporary global silhouettes for modern women.",
+  "features": [
+    "Full-screen hero with sticky nav and animated Khadi texture background",
+    "Philosophy triad with interactive columns",
+    "Product launch carousel with INR/USD price toggle",
+    "Story and manifesto section with parallax gallery",
+    "Styled placeholder Instagram grid",
+    "Email capture with backend storage",
+    "SEO optimized with Open Graph tags",
+    "Scroll-triggered reveal animations and clay ripple buttons"
+  ],
+  "category": "landing-page",
+  "tags": [
+    "fashion",
+    "landing-page",
+    "slow-fashion",
+    "india",
+    "luxury",
+    "ecommerce",
+    "khadi",
+    "minimalist"
+  ],
+  "last_updated": "2026-05-04T07:12:22.162Z"
+}
